@@ -49,7 +49,7 @@ pip install -r requirements.txt
 Usage
 After installation, you can explore the notebook or script to understand the different steps involved in data preprocessing, model training, evaluation, and visualization.
 
-Model Training & Evaluation
+Model Training & Evaluation: 
 Linear Regression and Random Forest Classifier are used for regression and classification tasks.
 A Neural Network with an Attention Layer is implemented to enhance prediction accuracy.
 Visualization
