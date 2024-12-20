@@ -45,6 +45,7 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 Install dependencies:
 
 pip install -r requirements.txt
+
 Usage
 After installation, you can explore the notebook or script to understand the different steps involved in data preprocessing, model training, evaluation, and visualization.
 
